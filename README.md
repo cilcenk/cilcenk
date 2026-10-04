@@ -1,6 +1,6 @@
 # Hi, I'm Cenk 👋
 
-**Senior Engineering Manager, Site Reliability Engineering.** I lead SRE teams and care about reliable container platforms, observability, infrastructure automation and delivery pipelines.
+**Vice President, Site Reliability Engineering at [Akbank](https://www.akbank.com).** I lead SRE teams and care about reliable container platforms, observability, infrastructure automation and delivery pipelines.
 
 ## What I'm building
 
