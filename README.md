@@ -4,7 +4,7 @@
 
 ## What I'm building
 
-**[Coremetry](https://github.com/cosretr/coremetry)** — an open-source, OpenTelemetry-native APM. Traces, metrics, logs, profiles and RUM on ClickHouse, behind a single Go binary, with SRE-perspective dashboards (Golden Signals, RED, USE) out of the box. Designed for billion-span-per-day production workloads and deployed on Kubernetes via Helm, with a Docker Compose setup for evaluation.
+**[Coremetry](https://github.com/cosretr/coremetry)** — an open-source, OpenTelemetry-native APM. Traces, metrics, logs, profiles and RUM on ClickHouse, behind a single Go binary, with SRE-perspective dashboards (Golden Signals, RED, USE) out of the box. Designed for billion-span-per-day production workloads and deployed on Kubernetes via Helm, from a local development cluster to multi-node production.
 
 ## What I work with
 
