@@ -31,6 +31,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=cilcenk&show_icons=true&hide_border=true" alt="GitHub stats" height="150" />
+  <img src="https://streak-stats.demolab.com?user=cilcenk&hide_border=true" alt="GitHub contribution streak" height="150" />
 </p>
 
 ## Get in touch
